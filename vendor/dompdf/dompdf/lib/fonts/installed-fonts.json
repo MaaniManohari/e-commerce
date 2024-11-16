@@ -1,0 +1,20 @@
+{
+    "roboto": {
+        "100": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/roboto_100_81da20a7c5fb175e52e6ee4196e29c80",
+        "300": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/roboto_300_946532f67a57584be06dd863f541ac7d",
+        "normal": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/roboto_normal_db1168cc5f8fc5193d9c7b7eda0425aa",
+        "500": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/roboto_500_d177939444fd8c92ee010dd8555b80cd",
+        "bold": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/roboto_bold_24123a87fbd881816d70b33a3b5b8d72",
+        "900": "roboto_900_c0b90c3d4073a93955e8f0c478bd97cf"
+    },
+    "poppins": {
+        "200": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_200_7947ea2e1f9e9614e6239a27958205bd",
+        "300": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_300_56a45aadd6f4717d0b29e006a9a82359",
+        "normal": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_normal_76df55b5114b1626b7db1a4cd816c320",
+        "500": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_500_90dcab88268cf6d3f77b33841917903c",
+        "600": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_600_ab2317e82e93420e320bf10d17d6c75b",
+        "bold": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_bold_cc53e8e8659afa950c49e4494cbb2708",
+        "800": "E:\\e commerce app ne\\e commerce app\\ecommerce\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_800_e36b15aa8fae738b721cafc53868de52",
+        "900": "poppins_900_4f72b1f9653154f66553c38e547a606a"
+    }
+}
